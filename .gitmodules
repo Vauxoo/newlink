@@ -1,0 +1,4 @@
+[submodule "newlink"]
+	path = newlink
+	url = git@git.vauxoo.com:vauxoo/newlink.git
+	branch = 19.0
