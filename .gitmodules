@@ -28,4 +28,7 @@
 [submodule "growit_account_vauxoo"]
 	path = growit_account_vauxoo
 	url = git@github.com:Vauxoo/growit_account_vauxoo.git
+[submodule "viaticum-approval"]
+	path = viaticum-approval
+	url = git@git.vauxoo.com:vauxoo/viaticum-approval.git
 	branch = 19.0
