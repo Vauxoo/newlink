@@ -6,3 +6,7 @@
 	path = addons-vauxoo
 	url = git@github.com:Vauxoo/addons-vauxoo.git
 	branch = 19.0
+[submodule "account-payment-split"]
+	path = account-payment-split
+	url = git@git.vauxoo.com:vauxoo/account-payment-split.git
+	branch = 19.0
