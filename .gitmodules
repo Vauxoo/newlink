@@ -14,3 +14,7 @@
 	path = l10n-mx-portal-vendor-bills
 	url = git@git.vauxoo.com:mexico/l10n-mx-portal-vendor-bills.git
 	branch = 19.0
+[submodule "l10n-mx-partner-blocklist"]
+	path = l10n-mx-partner-blocklist
+	url = git@git.vauxoo.com:mexico/l10n-mx-partner-blocklist.git
+	branch = 19.0
