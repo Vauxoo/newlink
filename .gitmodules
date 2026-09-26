@@ -6,3 +6,15 @@
 	path = addons-vauxoo
 	url = git@github.com:Vauxoo/addons-vauxoo.git
 	branch = 19.0
+[submodule "l10n-mx-portal-vendor-bills"]
+	path = l10n-mx-portal-vendor-bills
+	url = git@git.vauxoo.com:mexico/l10n-mx-portal-vendor-bills.git
+	branch = 19.0
+[submodule "l10n-mx-partner-blocklist"]
+	path = l10n-mx-partner-blocklist
+	url = git@git.vauxoo.com:mexico/l10n-mx-partner-blocklist.git
+	branch = 19.0
+[submodule "account-payment-split"]
+	path = account-payment-split
+	url = git@git.vauxoo.com:vauxoo/account-payment-split.git
+	branch = 19.0
