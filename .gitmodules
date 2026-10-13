@@ -29,3 +29,7 @@
 	path = growit_account_vauxoo
 	url = git@github.com:Vauxoo/growit_account_vauxoo.git
 	branch = 19.0
+[submodule "server-backend"]
+	path = server-backend
+	url = git@github.com:OCA/server-backend.git
+	branch = 19.0
