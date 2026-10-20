@@ -29,3 +29,7 @@
 	path = growit_account_vauxoo
 	url = git@github.com:Vauxoo/growit_account_vauxoo.git
 	branch = 19.0
+[submodule "xunnel-account"]
+	path = xunnel-account
+	url = git@git.vauxoo.com:vauxoo/xunnel-account.git
+	branch = 19.0
