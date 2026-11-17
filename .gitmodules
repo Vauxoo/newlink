@@ -33,3 +33,6 @@
 	path = xunnel-account
 	url = git@git.vauxoo.com:vauxoo/xunnel-account.git
 	branch = 19.0
+[submodule "multi-company"]
+	path = multi-company
+	url = git@github.com:Vauxoo/multi-company.git
