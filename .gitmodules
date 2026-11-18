@@ -31,5 +31,5 @@
 	branch = 19.0
 [submodule "xunnel-account"]
 	path = xunnel-account
-	url = git@git.vauxoo.com:vauxoo/xunnel-account.git
-	branch = 19.0
+	url = git@git.vauxoo.com:vauxoo-dev/xunnel-account.git
+	branch = issue-106803
